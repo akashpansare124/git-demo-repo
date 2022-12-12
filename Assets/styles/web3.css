@@ -1,0 +1,145 @@
+.left{
+    float: left;
+    background-color: rgb(97, 76, 76);
+    position: fixed;left: 0;
+    color: white;
+    /* padding-top: 80px;height: 100vh;width: 318px; */
+    width: 20%;
+}
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(236, 100, 100);
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding-top:22px;position: relative;top: 87px;
+    left: 44px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #ececec;
+    display: block;
+    transition: 0.3s;
+    font-weight: 400;
+}
+
+.sidenav a:hover {
+    color: #f1ebeb;
+}
+
+.sidenav .closebtn {
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 36px;
+    margin-left: 50px;
+}
+.secondleft{
+    padding-top: 80px;height: 100vh;width: 318px; 
+}
+.lb{
+    height: 3px;width: 89px;border: 2px rgb(247, 247, 247) solid;margin-top: 10px;
+}
+.tomato1{
+    color: rgb(219, 33, 33);
+}
+.dash{
+    text-align: center;
+    position: relative;top: 45px;right: 37px;
+}
+.secondleft{
+
+    position: relative;
+    top: 50px;right: 18px;
+
+}
+.tomato2{
+    color: rgb(247, 130, 130);
+    letter-spacing: 8px;
+    margin-left: 66px;
+}
+.akp{
+    margin-left: 69px;
+}
+.sign1{
+    margin-left: 64px;margin-top: 34px;
+}
+.right{
+    float: right;
+    width: 80%;height: 100vh;background-color: rgb(59, 56, 56);
+}
+.hello {
+    margin-top: 140px;
+    margin-left: 64px;
+}
+.baap {
+    color: #f37b83;
+
+    margin-top: 75px;
+    font-size: 80px;
+    font-weight: 800;
+    line-height: 4px;
+
+}
+
+.bap {
+    color: #f37b83;
+    margin-top: 65px;
+
+    font-size: 80px;
+    font-weight: 800;
+    line-height: 4px;
+
+}
+.para {
+    color: rgba(221, 74, 74, 0.938);
+    height: 72px;
+    width: 370px;
+    margin-top: 145px;
+    margin-left: 70px;
+    font-size: medium;
+}
+.r1{
+    background-color: #fcddf7;
+    height: 100vh;
+}
+.linkin {
+    letter-spacing: 5px;
+    margin-left: 59px;
+    color: rgba(82, 52, 52, 0.63); font-size: 11px;
+}
+
+.twit {
+    letter-spacing: 5px;
+    margin-left: 45px;
+    color: rgba(82, 52, 52, 0.63); font-size: 11px;
+}
+
+.insta {
+    letter-spacing: 4px;
+    margin-top: 80px;
+    margin-left: 23px;
+    color: rgba(82, 52, 52, 0.63);
+    font-size: 11px;
+}
+.chocolate{
+    background-color: rgb(48, 20, 0);
+}
+
+/* @media screen and (min-width: 320px)and(max-width:640px) {
+    .left {
+      width: 100%;display: none;
+    }
+    .right{
+        width: 100%;
+        display: none;
+    }
+  } */

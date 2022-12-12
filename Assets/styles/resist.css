@@ -1,0 +1,29 @@
+body{
+    background-image: url(../images/building.jpg);
+    
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+
+  background-size:cover;
+
+min-width: 600px;
+max-height: 200px;
+}
+input{
+    width:200px;
+    border: 0ch;border-radius: 8px;
+margin-right: 200px;
+
+    border-bottom: 2px solid white;
+    
+}
+.form{
+    margin-top: 170px;
+    background-color: aquamarine;
+    text-align: center;
+}
+select{
+    border: none;
+    color: violet;
+    background-color:aquamarine;
+}

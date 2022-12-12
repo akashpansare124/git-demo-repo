@@ -1,0 +1,217 @@
+.left {
+    background-color: rgb(34, 21, 21);
+    color: white;
+    position: fixed;
+    height: 100vh;
+    top: 0;
+    width: 320px;
+    float: left;
+}
+
+.right {
+    float: right;
+    margin: 0px;
+    width: 1119px;
+    height: 100vh;
+    background-color: rgb(231, 226, 226);
+    /* padding-left: 320px; */
+}
+
+/* .one{
+margin-left: 93px;margin-bottom: 100px;
+}
+.six{
+    padding-bottom: 200px;
+} */
+.control {
+    display: flex;
+    margin-top: 90px;
+    text-align: center;
+    color: white;
+    vertical-align: center;
+    align-items: center;
+}
+
+.control .line {
+    width: 100px;
+    height: 4px;
+    background: #fff;
+    margin-left: 40px;
+    margin-top: -13px;
+
+}
+
+.p1 {
+    margin-left: 56px;
+    padding-left: 42px;
+    margin-right: -29px;
+    color: #f78da7;
+}
+
+.tomato {
+    color: tomato;
+}
+
+.name {
+    position: relative;
+    top: 50px;
+    left: 38px;
+}
+
+.name1 {
+    font-size: 18px;
+}
+
+.hello {
+    font-size: 32px;
+    color: rgb(138, 70, 70);
+    margin-left: 123px;
+    margin-top: 80px;
+}
+
+
+.f6 {
+    color: #f37b83;
+    padding-left: 62px;
+
+    font-size: 100px;
+    font-weight: 800;
+    line-height: 4px;
+    margin-top: 120px;
+}
+
+.text {
+    width: 395px;
+    font-size: 16px;
+    margin-left: 120px;
+    color: #f78da7;
+    padding-top: 40px;
+    line-height: 30px;
+    margin-top: 120px;
+}
+
+.link {
+    margin-left: 120px;
+    margin-top: 30px;
+    opacity: 0.5;
+}
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgb(133, 67, 67);
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+.sidenav a {
+    padding-top: 34px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 25px;
+    color: #ececec;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav a:hover {
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+.bg {
+    background-color: rgb(73, 44, 44);
+
+}
+
+.box {
+    background-color: rgb(70, 16, 22);
+    border: 1px solid black;
+    width: 257px;
+    height: 350px;
+    margin-left: 90px;
+    margin-top: 90px;
+}
+
+.design {
+    color: tomato;
+    font-weight: 800;
+}
+
+.power {
+    width: 189px;
+    margin-left: 12px;
+    text-align: center;
+    color: #921a28;
+    font-size: 15px;
+    height: 370px;
+    line-height: 23px;
+    font-family: 'Rubik Bubbles', cursive;
+    font-family: 'Yeseva One', cursive;
+}
+
+.atlanta {
+    margin-top: 103px;
+}
+
+.lorem {
+    color: rgb(156, 121, 121);
+    
+}
+
+.lorem2 {
+    color: rgb(156, 121, 121);
+    font-size: 19px;
+    margin-top: 50px;
+}
+
+.lorem3 {
+    color: rgb(156, 121, 121);
+    font-size: 19px;
+    margin-top: 25px;
+}
+
+.allimg {
+    margin-left: 90px;
+    margin-top: 170px;
+}
+
+
+
+.pt6 {
+    padding-top: 27px;
+    margin-left: 45px;
+}
+
+
+
+
+.content {
+    margin-left: 20px;
+    display: inline-block;
+}
+
+.fifteen {
+    margin-left: 34px;
+    color: aqua;
+}
+.fifty{
+    color: #ff94a1;
+}
+.wrapper {
+    max-width: 1000px;
+    margin-top: 90px;
+  }
